@@ -1,2 +1,8 @@
-# PartyNextDoorIOS.github.io
-Website for Party Next Door (iOS).
+# Party Next Door
+
+Event, itinerary, calendar, and organization management.
+
+## Links
+
+- [Support](support.html)
+- [Privacy Policy](privacy.html)
